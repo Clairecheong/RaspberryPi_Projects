@@ -1,4 +1,3 @@
-
 # Import the python libraries needed
 import RPi.GPIO as GPIO # Import library RPi.GPIO & calling it GPIO
 import time             # Import time library to call time.sleep (delay)
