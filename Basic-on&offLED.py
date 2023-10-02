@@ -1,6 +1,6 @@
 #import the python libraries needed
 import RPi.GPIO as GPIO #import library RPi.GPIO & calling it GPIO
-import time
+import time             #import time library to call time.sleep (delay)
 
 #set the GPIO mode to Broadcom pin
 GPIO.setmode(GPIO.BCM) #Broadcom(BCM) use to configure Raspberry Pi pins using the Broadcom channel num.
